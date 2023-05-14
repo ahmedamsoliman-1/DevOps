@@ -1,0 +1,6 @@
+[submodule "devops-1"]
+	path = devops-1
+	url = https://github.com/ahmedamsoliman-1/devops-1.git
+[submodule "terraform"]
+	path = Terraform
+	url = https://github.com/ahmedamsoliman-1/terraform.git
